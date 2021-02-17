@@ -1,4 +1,4 @@
-package application;
+/*package application;
 
 public class Program1 {
 
@@ -21,3 +21,4 @@ public class Program1 {
 		c2.rabiscar();
 	}
 }
+*/
