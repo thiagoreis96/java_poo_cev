@@ -1,4 +1,4 @@
-package entities;
+package application;
 
 public class Caneta {
 	public String modelo;

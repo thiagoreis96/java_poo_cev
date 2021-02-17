@@ -5,7 +5,7 @@
 
 package exercises;
 
-import entities.Carro;
+import application.Carro;
 
 public class Ex01 {
 
