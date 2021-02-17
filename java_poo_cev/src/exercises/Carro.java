@@ -1,12 +1,12 @@
-package application;
+package exercises;
 
 public class Carro {
 	
 	public String modelo;
 	public String cor;
-	public double motor;
-	public int passageiros;
-	public boolean tanque;
+	protected double motor;
+	protected int passageiros;
+	protected boolean tanque;
 	public void status() {
 		System.out.println("Modelo: " + this.modelo);
 		System.out.println("Cor: " + this.cor);

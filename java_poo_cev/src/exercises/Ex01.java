@@ -5,8 +5,6 @@
 
 package exercises;
 
-import application.Carro;
-
 public class Ex01 {
 
 	public static void main(String[] args) {
